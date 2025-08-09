@@ -1,5 +1,5 @@
 // Cuenta regresiva
-let targetDate = new Date("2025-12-25").getTime();
+let targetDate = new Date("2025-09-06").getTime();
 
 let countdown = setInterval(function() {
     let now = new Date().getTime();
