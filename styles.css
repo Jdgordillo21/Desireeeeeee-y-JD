@@ -1,0 +1,23 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: #ffe6eb;
+    color: #333;
+    text-align: center;
+    margin: 0;
+}
+header {
+    background: #ff99aa;
+    padding: 20px;
+    color: white;
+}
+.gallery img {
+    width: 200px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.message, .countdown {
+    margin: 20px;
+    padding: 15px;
+    background: white;
+    border-radius: 10px;
+}
